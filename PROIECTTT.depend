@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528164588 source:c:\users\oprea\desktop\proiecttt\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sortari.h"
+
+1528164554 c:\users\oprea\desktop\proiecttt\sortari.h
+
+1528165380 source:c:\users\oprea\desktop\proiecttt\sortari.c
+	"sortari.h"
+
